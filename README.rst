@@ -28,8 +28,8 @@ Instructions
    Where your ``YOUR_USERNAME`` is your user name.
 
 #. Go into your new cloned directory
-  
-  ``cd number_guess``
+
+   ``cd number_guess``
 
 #. Set upstream branch
 
